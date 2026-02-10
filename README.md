@@ -147,41 +147,72 @@ Ensure the following are installed:
 #### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/mdalamin-connect/enterprise-erp-platform.git
-cd enterprise-erp-platformcomposer install
+cd enterprise-erp-platform
+```
+#### 2️⃣ Install Dependencies
+```bash
+composer install
 npm install
+```
+3️⃣ Configure Environment
+```bash
 copy .env.example .env
 php artisan key:generate
+```
+4️⃣ Database Configuration
+```bash
 DB_DATABASE=enterprise_erp
 DB_USERNAME=root
 DB_PASSWORD=your_password
-php artisan migrate
+```
+5️⃣ Build Frontend Assets
+```bash
 npm run build
 npm run dev
+```
+6️⃣ Run Application
+```bash
 php artisan serve
 http://127.0.0.1:8000
-
+```
 
 ---
 
-### 🪟 Windows Setup
-
+### 🐧 Linux / Ubuntu Setup
+1️⃣ Clone Repository
+```bash
 git clone https://github.com/mdalamin-connect/enterprise-erp-platform.git
 cd enterprise-erp-platform
+```
+2️⃣ Install PHP Extensions
+```bash
 sudo apt update
 sudo apt install php php-mysql php-xml php-mbstring php-curl php-zip unzip
+```
+3️⃣ Install Dependencies
+```bash
 composer install
 npm install
+```
+4️⃣ Environment Setup
+```bash
 cp .env.example .env
 php artisan key:generate
+```
+5️⃣ Database Setup
+```bash
 mysql -u root -p
 CREATE DATABASE enterprise_erp;
+```
+6️⃣ Build Frontend Assets
+```bash
 npm run build
+```
+7️⃣ Run Server
+```bash
 php artisan serve
 http://127.0.0.1:8000
-
-
-
----
+```
 
 # 🤝 Connect With Me
 

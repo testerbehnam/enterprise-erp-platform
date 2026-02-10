@@ -226,6 +226,17 @@ http://127.0.0.1:8000
 </a>
 </p>
 
+
+👨‍💻 Author
+MUHAMMAD AL-AMIN
+Backend / Full-stack Developer | Laravel | Enterprise Systems
+
+
+
+
+📄 License
+This project is open-source and licensed under the MIT License.
+
 ---
 
 

@@ -227,8 +227,8 @@ http://127.0.0.1:8000
 </p>
 
 
-👨‍💻 Author
-MUHAMMAD AL-AMIN
+# 👨‍💻 Author
+<h4>MUHAMMAD AL-AMIN</h4>
 Backend / Full-stack Developer | Laravel | Enterprise Systems
 
 

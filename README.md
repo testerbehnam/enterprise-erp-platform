@@ -213,10 +213,81 @@ Visit:
 http://127.0.0.1:8000
 ```
 
+
+
+
+
+
+
+## 🐧 Setup on Linux / Ubuntu
+
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/mdalamin-connect/enterprise-erp-platform.git
 cd enterprise-erp-platform
+```
+
+---
+
+### 2️⃣ Install PHP Extensions (if needed)
+
+```bash
+sudo apt update
+
+sudo apt install php php-mysql php-xml php-mbstring php-curl php-zip unzip
+```
+
+---
+
+### 3️⃣ Install Dependencies
+```bash
 composer install
+npm install
+```
+
+---
+
+### 4️⃣ Configure Environment
+```bash
 cp .env.example .env
 php artisan key:generate
-php artisan migrate
+```
+
+---
+
+### 5️⃣ Setup Database
+
+Create database:
+
+```bash
+mysql -u root -p
+```
+
+Inside MySQL:
+
+```sql
+CREATE DATABASE enterprise_erp;
+```
+
+Update `.env` with credentials.
+
+Run:
+
+```bash
+php artisan migrate --seed
+```
+
+---
+
+### 6️⃣ Build Frontend
+```bash
+npm run build
+```
+
+---
+
+### 7️⃣ Run Application
+```bash
 php artisan serve
+```
+

